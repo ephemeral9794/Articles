@@ -7,6 +7,12 @@
 この記事は、このアセットの日本語記事が軽く探した限り見当たらないし、せっかくだから私が書こうじゃないか的なアレです。
 紹介している内容に誤りがある可能性があるので、このアセットを使用する場合この記事は参考程度にとどめておき、実際にご自身で購入しご確認ください。
 
+##環境等
+この記事での環境は以下の通りです。
+- Windows 7 SP1 64bit
+- Unity 2017.3.1f
+- RPG Maker Auto Tile Impoter 1.6.1
+
 #「[RPG Maker Auto Tile Impoter](https://assetstore.unity.com/packages/tools/sprite-management/rpg-maker-auto-tile-impoter-103504)」とは
 ![screenshot01](ss-01.png)
 - RPGツクール等のオートタイル素材をUnityのTileに変換するエディタ拡張アセット
